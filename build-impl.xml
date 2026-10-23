@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-*** GENERATED FROM project.xml - DO NOT EDIT  ***
-***         EDIT ../build.xml INSTEAD         ***
--->
-<project name="BookstoreApp-impl" basedir="..">
-    <import file="build.xml"/>
-</project>
