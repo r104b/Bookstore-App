@@ -1,0 +1,5 @@
+Verity,30.0
+The Great Gatsby,35.0
+The Brief History Of Intelligence,25.0
+To Kill A Mocking Bird,25.0
+The God Of The Woods,40.0
